@@ -57,6 +57,9 @@ UU: 400
 
 Send to mail >>xxx@*****.***
 ```
+# Tips
+
+[http://qiita.com/ushiron/items/ed1a90bf38396fadcb7b](pykintoneで2つのレコードの集計結果をメールで送信してみる)
 
 # License
 
