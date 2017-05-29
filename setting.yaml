@@ -9,8 +9,6 @@ mail:
     port: 587 
     to: *****@****.***
     from: *****@****.***
-    bcc: []
-    #ex) [xxxx@domain.com, xxx@domain.com,..]
     password: *****
     charset: utf-8
     subject: Index calculation result 
