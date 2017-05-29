@@ -41,8 +41,6 @@ mail:
     port: 587 
     to: *****@****.***
     from: *****@****.***
-    bcc: []
-    #ex) [xxxx@domain.com, xxx@domain.com,..]
     password: *****
 ```
 
